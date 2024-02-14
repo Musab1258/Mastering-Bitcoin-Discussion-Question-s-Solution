@@ -1,6 +1,6 @@
-# Mastering-Bitcoin-Discussion-Questions-Solution
+# Answers to Qala (BtrustBuilders) Mastering Bitcoin Discussion Questions
 
-This repository contains well-explained answers to the Mastering Bitcoin Discussion Question by Qala (BtrustBuilders).
+This repository contains well-explained answers to the Mastering Bitcoin Discussion Question by Qala (BtrustBuilders). [Here](https://github.com/Qala-Dev/mastering-bitcoin-discussion-questions) is the link to the discussion question's repository. 
 
 [Answers to Chapter 1 discussion questions](./Chapter1_Answers.md)
 
