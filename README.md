@@ -2,7 +2,7 @@
 
 This repository contains well-explained answers to the Mastering Bitcoin Discussion Question by Qala (BtrustBuilders).
 
-Answers to Chapter 1 discussion questions
+[Answers to Chapter 1 discussion questions](./Chapter1_Answers.md)
 
 Answers to Chapter 2 discussion questions
 
