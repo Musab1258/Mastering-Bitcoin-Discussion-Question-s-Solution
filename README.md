@@ -4,24 +4,24 @@ This repository contains well-explained answers to the Mastering Bitcoin Discuss
 
 [Answers to Chapter 1 discussion questions](./Chapter1_Answers.md)
 
-Answers to Chapter 2 discussion questions
+[Answers to Chapter 2 discussion questions](./Chapter2_Answers.md)
 
-Answers to Chapter 3 discussion questions
+[Answers to Chapter 3 discussion questions](./Chapter3_Answers.md)
 
-Answers to Chapter 4 discussion questions
+[Answers to Chapter 4 discussion questions](./Chapter4_Answers.md)
 
-Answers to Chapter 5 discussion questions
+[Answers to Chapter 5 discussion questions](./Chapter5_Answers.md)
 
-Answers to Chapter 6 discussion questions
+[Answers to Chapter 6 discussion questions](./Chapter6_Answers.md)
 
-Answers to Chapter 7 discussion questions
+[Answers to Chapter 7 discussion questions](./Chapter7_Answers.md)
 
-Answers to Chapter 8 discussion questions
+[Answers to Chapter 8 discussion questions](./Chapter8_Answers.md)
 
-Answers to Chapter 9 discussion questions
+[Answers to Chapter 9 discussion questions](./Chapter9_Answers.md)
 
-Answers to Chapter 10 discussion questions
+[Answers to Chapter 10 discussion questions](./Chapter10_Answers.md)
 
-Answers to Chapter 11 discussion questions
+[Answers to Chapter 11 discussion questions](./Chapter11_Answers.md)
 
-Answers to Chapter 12 discussion questions
+[Answers to Chapter 12 discussion questions](./Chapter12_Answers.md)
